@@ -16,4 +16,6 @@ The design includes:
 - CAN-FD control to allow synchronous data reception and transmission between all three MCUs
 - PC/104 Form Factor
 
+![Fusion Render 1](https://github.com/ketszim97/trillium_v5/blob/master/Renders/Fusion%20Render%201.png)
 ![Front View](https://github.com/ketszim97/trillium_v5/blob/master/Renders/Altium%20Front%20View.png)
+![Fusion Render 2](https://github.com/ketszim97/trillium_v5/blob/master/Renders/Fusion%20Render%202.png)
