@@ -1,0 +1,68 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MSDASQL.1;User ID=altium;Password=7GH4njK8sJgVFNJR;Persist Security Info=True;Extended Properties="DRIVER=MariaDB ODBC 3.1 Driver;SERVER=internal.ubcorbit.com;PORT=3306;DATABASE=altium";Initial Catalog=altium
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=`
+RightQuote=`
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=
+LibraryDatabasePath=
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=https://internal.ubcorbit.com:8443/svn/shared/altium/Components/Symbols;https://internal.ubcorbit.com:8443/svn/shared/altium/Components/Footprints
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Components
+SVNRepositoryURL=https://internal.ubcorbit.com:8443/svn/shared/altium/Components
+FileRepositoryIsRelative=0
+[Table1]
+SchemaName=
+TableName=Components
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=Connectors
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=Integrated Circuits
+Enabled=False
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=Passives
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Components.OrbitPartId|TableNameOnly=Components|FieldNameOnly=OrbitPartId|FieldType=0|ParameterName=OrbitPartId|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Components.Description|TableNameOnly=Components|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Components.Footprint Path|TableNameOnly=Components|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Components.Footprint Path 2|TableNameOnly=Components|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Components.Footprint Path 3|TableNameOnly=Components|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Components.Footprint Ref|TableNameOnly=Components|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Components.Footprint Ref 2|TableNameOnly=Components|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Components.Footprint Ref 3|TableNameOnly=Components|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Components.Library Path|TableNameOnly=Components|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Components.Library Ref|TableNameOnly=Components|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

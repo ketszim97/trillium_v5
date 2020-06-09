@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MCU1_CAN1_RX Pin=U1-103
+Removed Pin From Net: NetName=MCU1_CAN1_TX Pin=U1-104
+Added Pin To Net: NetName=MCU1_CAN1_RX Pin=U1-114
+Added Pin To Net: NetName=MCU1_CAN1_TX Pin=U1-115
+Added Pin To Net: NetName=PAY_USB_DM Pin=U1-103
+Added Net: Name=PAY_USB_DM
+Added Pin To Net: NetName=PAY_USB_DP Pin=U1-104
+Added Net: Name=PAY_USB_DP

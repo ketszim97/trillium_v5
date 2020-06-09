@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=PAY_UART_RX Pin=J1-11
+Added Pin To Net: NetName=PAY_UART_RX Pin=U1-18
+Added Pin To Net: NetName=PAY_UART_RX Pin=U6-18
+Added Pin To Net: NetName=PAY_UART_RX Pin=U10-18
+Added Net: Name=PAY_UART_RX
+Added Pin To Net: NetName=PAY_UART_TX Pin=J1-9
+Added Pin To Net: NetName=PAY_UART_TX Pin=U1-19
+Added Pin To Net: NetName=PAY_UART_TX Pin=U6-19
+Added Pin To Net: NetName=PAY_UART_TX Pin=U10-19
+Added Net: Name=PAY_UART_TX
